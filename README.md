@@ -5,9 +5,10 @@
 Machine Learning & AI
 Data Visualization & Storytelling
 Big Data & Cloud Computing
+
 💡 Skills:
 
-Programming: Python, R, SQL
+Programming: Python, SQL
 Libraries/Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow
 Tools: Jupyter Notebook, Tableau, Power BI
 📊 Check out my projects showcasing real-world applications of data science, from predictive modeling to interactive dashboards!
